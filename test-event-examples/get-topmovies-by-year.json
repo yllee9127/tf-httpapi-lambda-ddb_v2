@@ -1,0 +1,6 @@
+{
+  "routeKey": "GET /topmovies/{year}",
+  "pathParameters": {
+    "year": "2013"
+  }
+}

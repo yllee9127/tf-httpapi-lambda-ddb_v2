@@ -1,0 +1,6 @@
+{
+  "routeKey": "DELETE /topmovies/{year}",
+  "pathParameters": {
+    "year": "2013"
+  }
+}
